@@ -1,0 +1,51 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "F0FC8C91899EE779845D26FBD03334CC5E56A14946400728672357DE1AACCE62",
+      "size": 1948
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "00D860B72139F91D4762221F45FD0607C70BC86A136E212F238CFFC65F3B1B44",
+      "size": 5970
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "302BED018C4FE4A0D776992277DF4C32B977472812D84A5B908A7C25EFE9D5EF",
+      "size": 2132
+    },
+    "static/Oswald-200-700-normal-cyrillic-ext.woff2": {
+      "name": "static/Oswald-200-700-normal-cyrillic-ext.woff2",
+      "checksum": "D1712BFB471AA81297DF8962E9CECEC786EA29372B8045D2524CD268C78FBE8B",
+      "size": 19496
+    },
+    "static/Oswald-200-700-normal-cyrillic.woff2": {
+      "name": "static/Oswald-200-700-normal-cyrillic.woff2",
+      "checksum": "074FCB4B6391B4C53916AC1DE53F563D30688B3016BF638B00E84609727AFF4F",
+      "size": 15664
+    },
+    "static/Oswald-200-700-normal-latin-ext.woff2": {
+      "name": "static/Oswald-200-700-normal-latin-ext.woff2",
+      "checksum": "5DC54BAE9968691DCF36C223FD1BCA396B2BBEE0EB668350AC6883E5DAA66861",
+      "size": 23680
+    },
+    "static/Oswald-200-700-normal-latin.woff2": {
+      "name": "static/Oswald-200-700-normal-latin.woff2",
+      "checksum": "241CED7F220982F5679A64CC6DB34ED42CD21274508CC5814616D9EFE374AFDE",
+      "size": 28512
+    },
+    "static/Oswald-200-700-normal-vietnamese.woff2": {
+      "name": "static/Oswald-200-700-normal-vietnamese.woff2",
+      "checksum": "5C2F5D2F87E1DBD68CDE8ED4909094EE6832AF4501472AE59F6614B1205585F0",
+      "size": 7476
+    }
+  },
+  "zip_url": "https://codeload.github.com/harish-admint/oswald-font/zip/refs/heads/main",
+  "checksum": "179E2EC7DEF2AFB94D8A5FAB518BD36DF40EE15AB4622D824B36965CDF297D7D"
+}
